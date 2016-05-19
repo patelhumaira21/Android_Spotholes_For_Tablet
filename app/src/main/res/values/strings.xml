@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assign5</string>
+    <string name="title">S-POTHOLES</string>
+    <string name="post">Report a Pothole</string>
+    <string name="get">Show Potholes</string>
+    <string name="showList">List View</string>
+    <string name="detailDescLabel">Detailed Description of Pothole</string>
+    <string name="imageLabel">Image</string>
+    <string name="descLabel">Description</string>
+    <string name="locationLabel">Location</string>
+    <string name="backButton">Back</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
